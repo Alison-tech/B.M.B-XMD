@@ -44,8 +44,8 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
